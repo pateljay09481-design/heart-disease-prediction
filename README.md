@@ -5,7 +5,7 @@ This project predicts the risk of heart disease using KNN  machine learning mode
 
 # Heart Disease Prediction
 
-🚀 **Live Demo:** https://your-app-name.streamlit.app
+🚀 **Live Demo:**https://heart-disease-prediction9656.streamlit.app/
 
 ## Technologies Used
 
